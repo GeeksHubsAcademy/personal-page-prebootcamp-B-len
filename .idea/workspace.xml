@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1470c4d5-55b8-423c-86a8-b34230538efd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/personal-page-prebootcamp-B-len.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/esindex.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fondo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/twitter.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cup1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cup2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cup3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cup4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cup5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cup6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cup7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cup8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cup9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dos.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esindex.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tres.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uno.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="1470c4d5-55b8-423c-86a8-b34230538efd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +12,7 @@
     <session id="901688138">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.40" value="1" />
@@ -89,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/esindex.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-50">
-              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+            <state relative-caret-position="294">
+              <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -114,7 +86,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="width" value="1025" />
     <option name="height" value="1050" />
@@ -177,16 +149,15 @@
       <workItem from="1540918214258" duration="7000" />
       <workItem from="1540918256318" duration="957000" />
       <workItem from="1541358237529" duration="4259000" />
-      <workItem from="1541415687765" duration="440000" />
+      <workItem from="1541415687765" duration="657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9673000" />
+    <option name="totallyTimeSpent" value="9890000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="820" height="840" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27631578" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -229,8 +200,8 @@
     <entry file="file://$PROJECT_DIR$/../JavaScript/Ejemplo1.html" />
     <entry file="file://$PROJECT_DIR$/css/esindex.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        <state relative-caret-position="294">
+          <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
         </state>
       </provider>
     </entry>
