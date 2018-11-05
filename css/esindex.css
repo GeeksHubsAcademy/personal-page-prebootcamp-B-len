@@ -1,0 +1,65 @@
+body{
+    background-color: #612147;
+}
+.twitter{
+    width: 36px;
+    height: 35px;
+    border-radius: 20%;
+}
+
+div#sociales{
+    position: absolute;
+    bottom: 10px;
+    left:15px;
+}
+#titulo{
+    position: absolute;
+    top:45px;
+    left: 35%;
+    font-family: 'Dancing Script', cursive;
+
+
+}
+#uno{
+    color:#f5ffc3;
+    text-decoration: none;
+    font-size:40px;
+}
+#dos{
+    text-size:30px;
+    color:#f5ffc3;
+    text-decoration: none;
+}
+#uno:hover{
+    background-color: #509aaf;
+    text-decoration: none;
+}
+#dos:hover{
+    background-color: #509aaf;
+    text-decoration: none;
+}
+#imagen{
+    position:fixed;
+    top:45px;
+    left: 10%;
+    right: 5px;
+}
+#arriba{
+    margin-right: 20%;
+}
+#parrafo{
+    position: absolute;
+    top:220px;
+    left: 10%;
+    font-family: 'Dancing Script', cursive;
+}
+#par{
+     color:#f5ffc3;
+     text-decoration: none;
+     font-size:40px;
+ }
+#par:hover{
+    color:#f5ffc3;
+    background-color: #509aaf;
+    text-decoration: none;
+}
